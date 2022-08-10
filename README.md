@@ -1,2 +1,2 @@
-# Project_01
+# Basic 
 Practice codes of languages 
